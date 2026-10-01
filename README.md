@@ -1,6 +1,6 @@
-# Hi, I'm Shu 
+## Hi
 
-Senior AI & ML Engineer focused on designing agentic systems, scalable ML pipelines, and production workflows. 
+I'm a senior AI & ML Engineer focused on designing agentic systems, scalable ML pipelines, and production workflows with more than 7 years of experience working in tech. 
 
 ---
 
@@ -23,5 +23,5 @@ Senior AI & ML Engineer focused on designing agentic systems, scalable ML pipeli
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/shulo/
